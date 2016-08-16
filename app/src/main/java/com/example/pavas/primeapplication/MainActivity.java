@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onRestoreInstanceState(Bundle restoreInstanceState){
         super.onRestoreInstanceState(restoreInstanceState);
-        restoreInstanceState.getInt("Number");
+        number= restoreInstanceState.getInt("Number");
 
         question.setText("Is " + number + " a prime number ?");
         Log.i(TAG, "Inside onRestoreInstance");
