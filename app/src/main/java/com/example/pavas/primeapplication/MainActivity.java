@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     public void random_number() {
 
         number = r.nextInt(1000 - 1) + 1;
-        question = (TextView) findViewById(R.id.questiontext);
+        question = (TextView) findViewById(R.id.question);
         question.setText("Is " + number + " a prime number ?");
     }
     public boolean check_prime_number(int num){
