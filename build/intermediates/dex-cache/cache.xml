@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88d114bdcb3915378192d95571adf9994bb31ddb">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcaa8ffecea34897085972328868545c1d3c031/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_747c60c6ba5746ff837fe5d29edee16e2162465d/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_499ed4b715d9ac188fa5641c5c9c0d4545f150cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_bea8f510184c0ab5d0dc960d154915b47b6ceca8/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_2d809735ccfbb4fa95be88b569a31d85ba3326b6/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_5f6e88e03513eb6263c26095afd0e030e9246d1a/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_430be71f85be24deb72273f6134a07926d3a11d3/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_70c9243cc5fde0c080dd4fda6850e58941e75468/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_2993649e6ee6538a64f05ae6c0a88f070f6cf2eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7c0c8dac853286b5a44eae03426b0d7fd0fb47c1">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_613a74d4a2ae4da0343d90396ee3a25349e747d0/classes.dex" />
+    </item>
+
+</items>

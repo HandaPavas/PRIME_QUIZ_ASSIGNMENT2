@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/quiz_icon.jpg",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/mipmap-xxhdpi/quiz_icon.jpg"
+    }
+]
