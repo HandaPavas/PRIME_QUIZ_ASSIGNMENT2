@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
        // calculate_score();
         random_number();
-       // onclickbutton();
+
         /*FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
