@@ -5,8 +5,15 @@
         jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="88d114bdcb3915378192d95571adf9994bb31ddb">
+        sha1="fa2113af0982a2ad8fac48858d8ed1bd503cd762">
         <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcaa8ffecea34897085972328868545c1d3c031/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_2d809735ccfbb4fa95be88b569a31d85ba3326b6/classes.dex" />
     </item>
     <item
         jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
@@ -21,20 +28,6 @@
         revision="24.0.1"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
         <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_499ed4b715d9ac188fa5641c5c9c0d4545f150cf/classes.dex" />
-    </item>
-    <item
-        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_bea8f510184c0ab5d0dc960d154915b47b6ceca8/classes.dex" />
-    </item>
-    <item
-        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_2d809735ccfbb4fa95be88b569a31d85ba3326b6/classes.dex" />
     </item>
     <item
         jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
@@ -68,8 +61,15 @@
         jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="7c0c8dac853286b5a44eae03426b0d7fd0fb47c1">
+        sha1="02d5d6a1354d8ec97815d07ef48b53293a78de5d">
         <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_613a74d4a2ae4da0343d90396ee3a25349e747d0/classes.dex" />
+    </item>
+    <item
+        jar="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_bea8f510184c0ab5d0dc960d154915b47b6ceca8/classes.dex" />
     </item>
 
 </items>

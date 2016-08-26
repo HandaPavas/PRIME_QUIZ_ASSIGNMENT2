@@ -13,74 +13,95 @@
     tools:showIn="@layout/activity_main">
 
     <TextView
+        android:id="@+id/question"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/questiontext"
-        android:gravity="center"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="124dp"
-        android:textSize="30dp"
+        android:gravity="center"
+        android:text="@string/questiontext"
         android:textAlignment="center"
         android:textColor="@color/colorPrimaryDark"
-        android:id="@+id/question" />
-
+        android:textSize="30dp" />
 
 
     <LinearLayout
+        android:id="@+id/layout1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginTop="100dp"
-        android:id="@+id/layout1"
         android:layout_below="@+id/question"
-        >
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/yesbutton"
-        android:onClick="yesbuttonclick"
-        android:id="@+id/yesbutton"
-        android:textColor="@color/colorPrimaryDark"
-        android:layout_marginLeft="60dp"
-        android:layout_marginRight="50dp"
-        android:textSize="18dp"
-        android:layout_centerVertical="true"
-        android:layout_toLeftOf="@+id/textView"
-        android:layout_toStartOf="@+id/textView" />
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/nobutton"
-        android:id="@+id/nobutton"
-        android:textColor="@color/colorPrimaryDark"
-        android:onClick="nobuttonClick"
-        android:textSize="18dp"
-        android:layout_alignTop="@+id/yesbutton"
-        android:layout_toRightOf="@+id/textView"
-        android:layout_toEndOf="@+id/textView" />
+        <Button
+            android:id="@+id/yesbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="50dp"
+            android:layout_toLeftOf="@+id/textView"
+            android:layout_toStartOf="@+id/textView"
+            android:onClick="yesbuttonclick"
+            android:text="@string/yesbutton"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/nobutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/yesbutton"
+            android:layout_marginLeft="10dp"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_toRightOf="@+id/textView"
+            android:onClick="nobuttonClick"
+            android:text="@string/nobutton"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:layout_marginTop="30dp"
         android:layout_below="@+id/layout1"
-        >
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/nextbutton"
-        android:onClick="nextbuttonClick"
-        android:id="@+id/nextbutton"
-        android:layout_marginBottom="46dp"
-        android:layout_gravity="center"
-        android:textColor="@color/colorPrimaryDark"
-        android:textSize="18dp"
-        android:layout_below="@+id/yesbutton"
-        android:layout_centerHorizontal="true" />
+        android:layout_marginTop="30dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/nextbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/yesbutton"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:onClick="nextbuttonClick"
+            android:text="@string/nextbutton"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/hintbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nextbutton"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="1dp"
+            android:text="Hint"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/cheatbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/hintbutton"
+            android:layout_gravity="center_horizontal"
+            android:text="Cheat"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="18dp" />
 
     </LinearLayout>
 </RelativeLayout>

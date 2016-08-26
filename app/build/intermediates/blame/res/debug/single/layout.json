@@ -112,6 +112,10 @@
         "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/notification_media_action.xml"
     },
     {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/hint_main.xml",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/layout/hint_main.xml"
+    },
+    {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_alert_dialog_material.xml"
     },
@@ -130,6 +134,10 @@
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/cheat_main.xml",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/layout/cheat_main.xml"
     },
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/content_main.xml",
@@ -158,6 +166,10 @@
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/activity_cheat.xml",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/layout/activity_cheat.xml"
     },
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -198,6 +210,10 @@
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/activity_hint.xml",
+        "source": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/src/main/res/layout/activity_hint.xml"
     },
     {
         "merged": "/home/pavas/AndroidStudioProjects/PRIME_APP_MT16040/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
